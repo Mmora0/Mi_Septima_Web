@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Tilt Warp', cursive;
+    text-align: center;
+    color: yellow;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: blue;
+    size: 50%;
+}
+
+hr{
+    border-color: aqua;
+    border-radius: 80%;
+    border-style: double;
+    
+
+}
+
+.span-html{
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
+
+.span-css{
+    display: flex;
+    justify-content: center;
+
+}
+
+.span-git{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    display: flex;
+    justify-content: center;
+}
